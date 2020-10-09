@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/be-the-hero/frontend/site/static/css/main.2050b099.chunk.css",
-    "main.js": "/be-the-hero/frontend/site/static/js/main.16986388.chunk.js",
-    "main.js.map": "/be-the-hero/frontend/site/static/js/main.16986388.chunk.js.map",
+    "main.js": "/be-the-hero/frontend/site/static/js/main.be1b77ce.chunk.js",
+    "main.js.map": "/be-the-hero/frontend/site/static/js/main.be1b77ce.chunk.js.map",
     "runtime-main.js": "/be-the-hero/frontend/site/static/js/runtime-main.41b27410.js",
     "runtime-main.js.map": "/be-the-hero/frontend/site/static/js/runtime-main.41b27410.js.map",
     "static/js/2.7f046380.chunk.js": "/be-the-hero/frontend/site/static/js/2.7f046380.chunk.js",
     "static/js/2.7f046380.chunk.js.map": "/be-the-hero/frontend/site/static/js/2.7f046380.chunk.js.map",
     "index.html": "/be-the-hero/frontend/site/index.html",
-    "precache-manifest.984bea21fc40c3290dd33cdf5dd04e3f.js": "/be-the-hero/frontend/site/precache-manifest.984bea21fc40c3290dd33cdf5dd04e3f.js",
+    "precache-manifest.f0087013f474a377f24d2e7d1368f2f4.js": "/be-the-hero/frontend/site/precache-manifest.f0087013f474a377f24d2e7d1368f2f4.js",
     "service-worker.js": "/be-the-hero/frontend/site/service-worker.js",
     "static/css/main.2050b099.chunk.css.map": "/be-the-hero/frontend/site/static/css/main.2050b099.chunk.css.map",
     "static/js/2.7f046380.chunk.js.LICENSE.txt": "/be-the-hero/frontend/site/static/js/2.7f046380.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.41b27410.js",
     "static/js/2.7f046380.chunk.js",
     "static/css/main.2050b099.chunk.css",
-    "static/js/main.16986388.chunk.js"
+    "static/js/main.be1b77ce.chunk.js"
   ]
 }
