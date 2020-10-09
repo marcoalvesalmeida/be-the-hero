@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/be-the-hero/frontend/site/static/css/main.2050b099.chunk.css",
-    "main.js": "/be-the-hero/frontend/site/static/js/main.be1b77ce.chunk.js",
-    "main.js.map": "/be-the-hero/frontend/site/static/js/main.be1b77ce.chunk.js.map",
-    "runtime-main.js": "/be-the-hero/frontend/site/static/js/runtime-main.41b27410.js",
-    "runtime-main.js.map": "/be-the-hero/frontend/site/static/js/runtime-main.41b27410.js.map",
-    "static/js/2.7f046380.chunk.js": "/be-the-hero/frontend/site/static/js/2.7f046380.chunk.js",
-    "static/js/2.7f046380.chunk.js.map": "/be-the-hero/frontend/site/static/js/2.7f046380.chunk.js.map",
-    "index.html": "/be-the-hero/frontend/site/index.html",
-    "precache-manifest.f0087013f474a377f24d2e7d1368f2f4.js": "/be-the-hero/frontend/site/precache-manifest.f0087013f474a377f24d2e7d1368f2f4.js",
-    "service-worker.js": "/be-the-hero/frontend/site/service-worker.js",
-    "static/css/main.2050b099.chunk.css.map": "/be-the-hero/frontend/site/static/css/main.2050b099.chunk.css.map",
-    "static/js/2.7f046380.chunk.js.LICENSE.txt": "/be-the-hero/frontend/site/static/js/2.7f046380.chunk.js.LICENSE.txt",
-    "static/media/heroes.png": "/be-the-hero/frontend/site/static/media/heroes.1f4b5508.png",
-    "static/media/logo.svg": "/be-the-hero/frontend/site/static/media/logo.7eea718b.svg"
+    "main.css": "/be-the-hero/frontend/static/css/main.2050b099.chunk.css",
+    "main.js": "/be-the-hero/frontend/static/js/main.29f12a40.chunk.js",
+    "main.js.map": "/be-the-hero/frontend/static/js/main.29f12a40.chunk.js.map",
+    "runtime-main.js": "/be-the-hero/frontend/static/js/runtime-main.286e1101.js",
+    "runtime-main.js.map": "/be-the-hero/frontend/static/js/runtime-main.286e1101.js.map",
+    "static/js/2.7f046380.chunk.js": "/be-the-hero/frontend/static/js/2.7f046380.chunk.js",
+    "static/js/2.7f046380.chunk.js.map": "/be-the-hero/frontend/static/js/2.7f046380.chunk.js.map",
+    "index.html": "/be-the-hero/frontend/index.html",
+    "precache-manifest.3f5c1bb2af4a1087ac2a2358c18cb461.js": "/be-the-hero/frontend/precache-manifest.3f5c1bb2af4a1087ac2a2358c18cb461.js",
+    "service-worker.js": "/be-the-hero/frontend/service-worker.js",
+    "static/css/main.2050b099.chunk.css.map": "/be-the-hero/frontend/static/css/main.2050b099.chunk.css.map",
+    "static/js/2.7f046380.chunk.js.LICENSE.txt": "/be-the-hero/frontend/static/js/2.7f046380.chunk.js.LICENSE.txt",
+    "static/media/heroes.png": "/be-the-hero/frontend/static/media/heroes.1f4b5508.png",
+    "static/media/logo.svg": "/be-the-hero/frontend/static/media/logo.7eea718b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.41b27410.js",
+    "static/js/runtime-main.286e1101.js",
     "static/js/2.7f046380.chunk.js",
     "static/css/main.2050b099.chunk.css",
-    "static/js/main.be1b77ce.chunk.js"
+    "static/js/main.29f12a40.chunk.js"
   ]
 }
